@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="footer-content">
             <div className="footer-content-left">
                 <img src={assets.logo} alt="" />
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati delectus aut vero temporibus ex. Possimus fugit est quaerat velit exercitationem, eos excepturi nobis error deleniti obcaecati dignissimos, expedita, ea iusto!</p>
+                <p>Tomato, the online food delivery app, brings your favorite meals straight to your doorstep. With a diverse range of restaurants and cuisines, Tomato offers quick, reliable service, ensuring you enjoy delicious food anytime, anywhere.</p>
                 <div className="footer-social-icons">
                     <img src={assets.facebook_icon} alt="" />
                     <img src={assets.twitter_icon} alt="" />
