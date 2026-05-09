@@ -144,7 +144,7 @@ Through this project, I learned:
 
 ## Author
 
-### Abhay Kumar
+### Abhay Kumar Kushwaha
 
 * GitHub: [https://github.com/abhaykr2001](https://github.com/abhaykr2001)
 * LinkedIn: https://www.linkedin.com/in/abhay-kumar-kushwaha/
